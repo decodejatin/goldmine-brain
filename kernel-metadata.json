@@ -1,0 +1,13 @@
+{
+  "id": "jatinjalandhra/goldmine-ppo-training",
+  "title": "Goldmine PPO Training",
+  "code_file": "rl_agent.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}
