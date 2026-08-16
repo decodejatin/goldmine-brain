@@ -1,0 +1,6 @@
+{
+    "risk_pct": 5.0,
+    "tp_multiplier": 5.0,
+    "sl_multiplier": 0.5,
+    "z_score_threshold": 0.5
+}
